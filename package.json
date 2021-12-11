@@ -1,0 +1,22 @@
+{
+  "name": "javascript-good-bad-ugly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script2.js",
+  "scripts": {
+    "test": "nodemon src/index.js",
+    "build": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "SauhardoSengupta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.0",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
